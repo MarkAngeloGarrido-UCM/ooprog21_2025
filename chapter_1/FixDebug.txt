@@ -1,0 +1,21 @@
+public class FixDebug One
+{
+   /* This program displays a greeting */
+   public static void Main(String args)   
+   {
+      Systm.out.println("Hello World!")         
+   }
+
+/*
+List down the spotted bugs below:
+
+Bugs:
+1. FixDebug One should be FixDebugOne (no spaces allowed in class names).
+2. public static void Main should be main with small letter m.
+3. string args should be (String[] args)
+4. Wrong spelling for System.Out in line 6 plus missing semi colon (;)
+
+
+e.g.
+- // wrong syntax for access modifier "publlic" instead of "public"
+*/
