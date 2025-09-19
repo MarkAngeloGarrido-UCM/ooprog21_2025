@@ -1,0 +1,1 @@
+Create a Java program named DemoGrossPay that calculates and displays the gross pay based on hours worked and a fixed hourly rate. The program should contain a method called calculateGross() that accepts the number of hours worked as a parameter, multiplies it by the standard hourly rate (22.75), and then prints the result.
